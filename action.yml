@@ -1,5 +1,5 @@
 name: npm publish on every push
-author: Shawn Allen
+author: Nikolay Kostyurin
 description: |
   Publish to npm or the GitHub Package registry on every push, with sensible versioning conventions.
 
